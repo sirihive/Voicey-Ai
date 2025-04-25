@@ -67,6 +67,9 @@ Build a web interface with Gradio that includes:
 
 
 
+---  
+---
+---
 
 
 
@@ -74,7 +77,7 @@ Build a web interface with Gradio that includes:
 
 
 
-## About Voicesy AI
+# About Voicesy AI
 
 **Voicesy AI** is a cutting-edge real-time chatbot and voice conversion application developed by **Hamaad Ayub Khan**. This innovative app combines advanced artificial intelligence technologies to provide users with a seamless interaction experience through both voice and text.
 
